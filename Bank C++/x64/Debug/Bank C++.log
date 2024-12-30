@@ -1,0 +1,5 @@
+﻿  Bank C++.cpp
+C:\Users\PC\source\repos\Bank C++\Bank C++\Bank C++.cpp(921,26): warning C4267: '=' : conversion de 'size_t' en 'short', perte possible de données
+C:\Users\PC\source\repos\Bank C++\Bank C++\Bank C++.cpp(1588,16): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+C:\Users\PC\source\repos\Bank C++\Bank C++\Bank C++.cpp(1700,13): warning C4129: « A » : séquence d’échappement de caractères non reconnue
+  Bank C++.vcxproj -> C:\Users\PC\source\repos\Bank C++\x64\Debug\Bank C++.exe
